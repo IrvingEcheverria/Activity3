@@ -52,7 +52,7 @@ Do you want to be notified about new extracurricular activities?
 <label for="scales">Yes, please</label>
 
 Please, leave us your suggestions about which activities you would like to see included.
-<textarea name="feedback" id="contact_feedback" cols="10" rows="30"></textarea>
+<textarea name="feedback" id="contact_feedback" cols="40" rows="5"></textarea>
 
 We appreciate your participation, we will be in contact.
 Sincerely, the academic direction. 
