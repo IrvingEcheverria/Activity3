@@ -66,4 +66,4 @@ type=”reset”: It will clear all the form data when it’s clicked.
 type=” button”: It does not have any default behavior and it’s mostly used with JavaScript to program it for custom behavior.
 type=” submit”: The default behavior of the submit type is, as the name implies, to submit the form and send all the data over to the server.
 
-<button type="reset">Reset form</button>
+<button type="reset">Reset form</button> 
