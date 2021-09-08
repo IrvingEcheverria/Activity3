@@ -56,3 +56,9 @@ Please, leave us your suggestions about which activities you would like to see i
 
 We appreciate your participation, we will be in contact.
 Sincerely, the academic direction. 
+
+<br>
+
+<img src="https://scontent.fmid3-1.fna.fbcdn.net/v/t1.6435-9/241447746_4818566961556948_5976128520197083998_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGRAKsIvjDzyCigJ5ZlY09mk5x_dcUH8NyTnH91xQfw3ICi_qVLYeamGhQdABt1iBguKc-re_2dVKSp4b66LXS2&_nc_ohc=JtYarVy9gu8AX--ZGCV&_nc_ht=scontent.fmid3-1.fna&oh=093eafe055dc8fd130bb34efdc4dd18b&oe=615D81E7" alt="Photo from my drawing">
+
+
