@@ -23,12 +23,12 @@ Dear students, we need to collect some data from our student body, please fill o
 
 ## SELECT YOUR CAREER
 <select name="career" id="survey_career">
-    <option value="Electronic Engineering">Electronic</option>
-    <option value="Biomedical Engineering">Biomedical</option>
-    <option value="Mechatronic Engineering">Mechatronic</option>
-    <option value="Civil Engineering">Civil</option>
-    <option value="Industrial Engineering">Industrial</option>
-    <option value="Software Engineering">Software</option>
+    <option value="Electronic Engineering">Electronic Engineering</option>
+    <option value="Biomedical Engineering">Biomedical Engineering</option>
+    <option value="Mechatronic Engineering">Mechatronic Engineering</option>
+    <option value="Civil Engineering">Civil Engineering</option>
+    <option value="Industrial Engineering">Industrial Engineering</option>
+    <option value="Software Engineering">Software Engineering</option>
 </select>
 
 ## SELECT YOUR ACADEMIC YEAR
@@ -52,7 +52,7 @@ Do you want to be notified about new extracurricular activities?
 <label for="scales">Yes, please</label>
 
 Please, leave us your suggestions about which activities you would like to see included.
-<textarea name="feedback" id="contact_feedback" cols="30" rows="10"></textarea>
+<textarea name="feedback" id="contact_feedback" cols="10" rows="30"></textarea>
 
 We appreciate your participation, we will be in contact.
 Sincerely, the academic direction. 
