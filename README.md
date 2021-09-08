@@ -1,6 +1,6 @@
 # Activity 3
 
-## FORM ELEMENT
+## FORM ELEMENT 
 <p1>
 This is the first element that we will learn. This element wraps all the other elements that go inside of our form. This is the form element.
 Our form won’t submit the data anywhere because it is not connected to a server. To connect our form to a server and process our data,
