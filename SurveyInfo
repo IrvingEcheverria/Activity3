@@ -1,17 +1,22 @@
 # Activity 3
 
 ## FORM ELEMENT
+<p1>
 This is the first element that we will learn. This element wraps all the other elements that go inside of our form. This is the form element.
 Our form won’t submit the data anywhere because it is not connected to a server. To connect our form to a server and process our data,
 we can use any server-side language like Python, Ruby, or Javascript using Node. The part of processing the data involves two important attributes 
 that are attached to the form element. Let’s take a look at those attributes.
+</p1>
 
-1. action: The action attribute is the web address (URL) of a program that processes the information submitted by our form.
-2. method: It is the HTTP method that the browser uses to submit the form, the possible values are POST and GET.
+<ol>
+<li> 1. action: The action attribute is the web address (URL) of a program that processes the information submitted by our form. </li>
+<li> 2. method: It is the HTTP method that the browser uses to submit the form, the possible values are POST and GET. </li>
+</ol>
 
-POST — Data from the body of the form is sent to the server.
-GET — Data is sent inside of the URL and parameters are separated with a question mark
-
+<ul>
+<li> POST — Data from the body of the form is sent to the server. </li>
+<li> GET — Data is sent inside of the URL and parameters are separated with a question mark. </li>
+</ul>
 
 <form action="/singup" method="POST">
     <!-- This is a form element -->
