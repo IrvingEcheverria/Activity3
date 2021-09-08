@@ -57,7 +57,9 @@ Please, leave us your suggestions about which activities you would like to see i
 <textarea name="feedback" id="contact_feedback" cols="40" rows="5"></textarea>
 
 We appreciate your participation, we will be in contact.
-Sincerely, the academic direction. 
+Sincerely, the academic direction.
+
+<button type="button" onclick="alert('Your information has been sent successfully.')">Send survey</button>
 
 <br>
 
