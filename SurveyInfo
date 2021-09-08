@@ -163,4 +163,4 @@ A checkbox can exist on its own, while radio buttons can only appear as a group 
 Selecting the checkbox is optional but choosing one of the radio buttons is mandatory.
 Don’t worry about memorizing everything. Almost no professional web developer can name every attribute or element. What’s more important than memorization is learning how to look up things in the documentation when you need them.
 
-You can try adding your own CSS if you finished this activity quickly to make this form look the way you want it to look.
+You can try adding your own CSS if you finished this activity quickly to make this form look the way you want it to look. 
