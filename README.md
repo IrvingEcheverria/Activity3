@@ -12,14 +12,16 @@ Dear students, we need to collect some data from our student body, please fill o
 <input type="Phonenumber" name="Username" id="write_studentname">
 
 ## SELECT YOUR STATUS
-<label>
-<input type="checkbox" class="radio" value="1" name="fooby[2][]" />New Admission</label>
+<input type="radio" id="status1" name="contact" value="new">
+<label for="status1">New admission</label>
 
-<label>
-<input type="checkbox" class="radio" value="1" name="fooby[2][]" />Current Student</label>
-  
-<label>
-<input type="checkbox" class="radio" value="1" name="fooby[2][]" />Former Student</label>
+<input type="radio" id="status2" name="contact" value="current">
+<label for="status2">Current student</label>
+
+<input type="radio" id="status3" name="contact" value="former">
+<label for="status3">Former student</label>
+
+
 
 ## SELECT YOUR CAREER
 <select name="career" id="survey_career">
