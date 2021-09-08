@@ -55,4 +55,4 @@ Please, leave us your suggestions about which activities you would like to see i
 <textarea name="feedback" id="contact_feedback" cols="30" rows="10"></textarea>
 
 We appreciate your participation, we will be in contact.
-Sincerely, the academic direction
+Sincerely, the academic direction. 
