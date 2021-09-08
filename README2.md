@@ -1,4 +1,5 @@
 # SCHOOL SURVEY EXAMPLE
+Dear students, we need to collect some data from our student body, please fill out the following survey to be registered on the list.
 
 ## CONTACT INFO
 <label for="write_studentname">Full name</label>
@@ -44,3 +45,14 @@
 <input type="radio" id="academicyear4" name="contact" value="Fourthyear">
 <label for="academicyear4">Fourth year</label>
 
+## THIS IS FOR YOU
+
+Do you want to be notified about new extracurricular activities?
+<input type="checkbox" id="scales" name="scales" checked>
+<label for="scales">Yes, please</label>
+
+Please, leave us your suggestions about which activities you would like to see included.
+<textarea name="feedback" id="contact_feedback" cols="30" rows="10"></textarea>
+
+We appreciate your participation, we will be in contact.
+Sincerely, the academic direction
